@@ -44,10 +44,9 @@ user_query = "What is positional encoding?"
 ```
 
 ## 📸 Example Output
-<img width="1173" height="600" alt="output" src="https://github.com/user-attachments/assets/dfcd8ab8-742a-4a88-9051-0cb61a915fee" /> 
-<img width="1082" height="340" alt="output2" src="https://github.com/user-attachments/assets/a6f7815d-60a3-4e07-8c41-7f8ac27f9d69" />
-<img width="1141" height="677" alt="output3" src="https://github.com/user-attachments/assets/fdf423f2-fc2c-462b-8711-f858afcda46d" />
-
+<img width="1173" height="600" alt="output" src="https://github.com/user-attachments/assets/34982493-2ca6-4048-85c7-b6bc916e3ed1" />
+<img width="1082" height="340" alt="output2" src="https://github.com/user-attachments/assets/0905ba30-c182-416d-a7bc-6fdefb455677" />
+<img width="1141" height="677" alt="output3" src="https://github.com/user-attachments/assets/d43f4a95-cc1c-4708-b247-52ce6b258e6a" />
 
 
 
