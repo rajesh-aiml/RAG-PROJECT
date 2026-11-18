@@ -49,6 +49,8 @@ user_query = "What is positional encoding?"
 <img width="1141" height="677" alt="output3" src="https://github.com/user-attachments/assets/fdf423f2-fc2c-462b-8711-f858afcda46d" />
 
 
+
+
 ## ⚠️ Limitations
 - TinyLlama is a small model, so answers can be less accurate
 - Only the top 3 chunk is retrieved (`k=3`)
