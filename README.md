@@ -28,7 +28,7 @@ A Retrieval-Augmented Generation (RAG) pipeline that answers questions from a PD
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/<rajesh-aiml>/<your-repo-name>.git
+git clone https://github.com/<rajesh-aiml>/.git
 cd <Rag-project>
 pip install -r requirements.txt
 ```
