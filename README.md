@@ -28,8 +28,8 @@ A Retrieval-Augmented Generation (RAG) pipeline that answers questions from a PD
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/<kngrkumar2839-web>/<your-repo-name>.git
-cd <rag-project>
+git clone https://github.com/<rajesh-aiml>/<your-repo-name>.git
+cd <Rag-project>
 pip install -r requirements.txt
 ```
 
